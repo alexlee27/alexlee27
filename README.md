@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi, I'm Alex!
 
+I'm entering my second year this fall at the University of Toronto, specializing in Computer Science.
+
+- Connect with me on [Linkedin](https://www.linkedin.com/in/alex-lee-cs/)!
 <!--
 **alexlee27/alexlee27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
