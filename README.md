@@ -1,6 +1,6 @@
 ### Hi, I'm Alex!
 
-I'm entering my second year this fall at the University of Toronto, specializing in Computer Science.
+I'm an undergraduate Computer Science student at the University of Toronto.
 
 - Connect with me on [Linkedin](https://www.linkedin.com/in/alex-lee-cs/)!
 <!--
