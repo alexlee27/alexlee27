@@ -1,4 +1,4 @@
-### Hi, I'm Alex!
+### Hi, I'm Alex! 👋
 
 I'm an undergraduate Computer Science student at the University of Toronto.
 
