@@ -1,8 +1,9 @@
 ### Hi, I'm Alex! 👋
 
-I'm an undergraduate Computer Science student at the University of Toronto.
+I'm an undergrad computer science student at the University of Toronto.
 
-- Connect with me on [Linkedin](https://www.linkedin.com/in/alex-lee-cs/)!
+[![Linkedin link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-lee-cs/)
+
 <!--
 **alexlee27/alexlee27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
